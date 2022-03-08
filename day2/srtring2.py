@@ -5,11 +5,11 @@ from itertools import count
 surname="chanturidze"
 #პირველი ასოს გადიდება
 print(surname.capitalize())
-#ყველა ასოსო გადიდება
+#ყველა ასოს  გადიდება
 print(surname.upper())
 name="gela"
 print(surname.replace("c","C"))
-#strip აორებს ზედმეტ სპეისებს
+#strip ასწორებს ზედმეტ სპეისებს
 print(name.strip(),surname)
 
 my_text="i love georgia"
